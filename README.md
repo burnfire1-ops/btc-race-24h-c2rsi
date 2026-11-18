@@ -1,0 +1,1 @@
+C2-RSI bot for make.fun BTC Race 24h (btc-race-24h-20261118-1444): buys the early-recovery EMA pullback (15m close touches EMA20, RSI(14,15m) in [40,45) and rising), all-in, TP 1.5%, SL 2%, Chandelier trail 2xATR, 480-bar time stop. Local dev grade on the bounty's own frozen window: +$13.28, 1 trade (entry bar 345, exit bar 506 on TP), maxDD 0.64%.
